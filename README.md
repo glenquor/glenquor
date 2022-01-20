@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glenquor
 - 👀 I’m interested in digital electronic, VLSI, programming and web deveploment.
-- 🌱 I’m currently learning web deveploment.
+- 🌱 I’m currently learning MERN stack.
 - 📫 How to reach me glenquor@gmail.com
 
 <!---
