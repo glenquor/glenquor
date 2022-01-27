@@ -9,7 +9,7 @@ Technologies: Python, JavaScript, C++.
 
 Front-end: HTML, CSS, Bootstrap.
 
-Back-end: Express.js, Flask, Flask-SQLAlchemy.
+Back-end: Express.js (Node.js), Flask, Flask-SQLAlchemy.
 
 Database: SQLite, MongoDB.
 
