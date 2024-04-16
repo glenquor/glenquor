@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glenquor
 - 👀 I’m interested in digital electronic, programming and web deveploment.
 - 🌱 I’m currently learning MEAN stack.
-- 📫 How to reach me glenquor@gmail.com
+[- 📫 How to reach me glenquor@gmail.com]
 
 --------------------------------------------------
 
