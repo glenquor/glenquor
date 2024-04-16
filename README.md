@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @glenquor
-- 👀 I’m interested in digital electronic, programming and web deveploment.
-- 🌱 I’m currently learning MEAN stack.
+- 👀 I’m interested in  web deveploment and cloud.
+- 🌱 I’m currently learning Go.
 
 --------------------------------------------------
 
-Technologies: Python, JavaScript, C++.
+Technologies: Python, TypeScript.
 
-Front-end: HTML, CSS, Bootstrap.
+Front-end: HTML, CSS, Angular.
 
-Back-end: Express.js (Node.js), Flask, Flask-SQLAlchemy.
+Back-end: Express.js, Flask.
 
-Database: SQLite, MongoDB.
+Database: SQL, MongoDB.
 
 <!---
 glenquor/glenquor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
