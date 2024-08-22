@@ -1,16 +1,20 @@
 - 👋 Hi, I’m @glenquor
-- 👀 I’m interested in  web deveploment and cloud.
-- 🌱 I’m currently learning Go.
+- 👀 I’m interested in cloud, DevOps and web deveploment.
+<!--- - 🌱 I’m currently learning Go.--->
 
 --------------------------------------------------
 
-Technologies: Python, TypeScript.
+Programming: Python, TypeScript.
+
+Cloud technologies: AWS, Terraform, Kubernetes, Helm charts.
 
 Front-end: HTML, CSS, Angular.
 
-Back-end: Express.js, Flask.
+Back-end: Node.js, Flask.
 
-Database: SQL, MongoDB.
+Database: SQL.
+
+Scripting: Bash and PowerShell.
 
 <!---
 glenquor/glenquor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
