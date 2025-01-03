@@ -6,7 +6,7 @@
 
 Programming: Python, TypeScript.
 
-Cloud technologies: AWS, Terraform, Kubernetes, Helm charts.
+Cloud technologies: AWS, Terraform, Kubernetes, Helm charts, GitHub Actions.
 
 Front-end: HTML, CSS, Angular.
 
